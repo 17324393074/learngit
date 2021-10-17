@@ -4,4 +4,3 @@ git has a mutable index called stage.
 git tracks changes.
 Creating a new branch is quick AND simple.
 dsfdafsjls
-Creating a new branch is quick AND simple.
